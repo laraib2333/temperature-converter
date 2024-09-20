@@ -36,7 +36,7 @@ h1{
     transform: translate(-50%, -50%);
     z-index: 2;
     text-align: center;
-    border: 7px dashed  rgb(75, 54, 34); /* Combined border properties */
+    border: 7px dashed  rgb(75, 54, 34);
     border-radius: 50px;
     box-shadow: 20px 20px 30px rgb(75, 54, 34);
     background-color: rgba(177, 152, 128, 0.536);
